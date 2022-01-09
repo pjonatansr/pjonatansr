@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Pablo Jonatan!</h1>
 <h3 align="center">A full-stack web developer from Brazil</h3>
 
+[English](README.md) | [Português](README-pt_br.md)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pjonatansr&label=Profile%20views&color=0e75b6&style=flat" alt="pjonatansr" /> </p>
 
 - 📄 I'm logging all my progress over 2022 [here](https://github.com/pjonatansr/personal-roadmap)

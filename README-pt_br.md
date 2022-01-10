@@ -5,17 +5,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pjonatansr&label=Profile%20views&color=0e75b6&style=flat" alt="pjonatansr" /> </p>
 
-- 📄 Estou registrando meu progresso no ano de 2022 [here](https://github.com/pjonatansr/personal-roadmap)
+- 📄 Estou registrando meu progresso no ano de 2022 em [personal-roadmap](https://github.com/pjonatansr/personal-roadmap)
 
-- 🔭 Atualmente eu estou desenvolvendo [A-Mail template service](https://github.com/pjonatansr/a-mail-template-service)
+- 🔭 Atualmente estou desenvolvendo [A-Mail template service](https://github.com/pjonatansr/a-mail-template-service)
 
-- 🌱 Nos dias atuais estou aprendendo **Web3** e tentando entender [os conceitos básicos de blockchain](https://github.com/pjonatansr/blockchain_course)
+- 🌱 Estou bastante focado em **Web3** e aprendendo sobre [desenvolvimento em blockchain](https://github.com/pjonatansr/blockchain_course)
+
+- 🤝 Estou buscando **um mentor ou emprego em Web3**
 
 - 💬 Pergunte-me sobre **Desenvolvimento Web**
 
 - 📫 Como me encontrar **this.pablo@gmail.com**
-
-- 🤝 Estou buscando **um mentor ou um emprego em Web3**
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">

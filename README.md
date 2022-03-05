@@ -1,17 +1,13 @@
 <h1 align="center">Hi 👋, I'm Pablo Jonatan!</h1>
-<h3 align="center">A full-stack web developer from Brazil</h3>
+<h3 align="center">A software engineer from Brazil</h3>
 
-[English](README.md) | [Português](README-pt_br.md)
+[English](README.md)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pjonatansr&label=Profile%20views&color=0e75b6&style=flat" alt="pjonatansr" /> </p>
 
 - 📄 I'm logging all my progress over 2022 on [personal-roadmap](https://github.com/pjonatansr/personal-roadmap)
 
-- 🔭 I’m currently working on [A-Mail template service](https://github.com/pjonatansr/a-mail-template-service)
-
-- 🌱 I’m hard focused on **Web3** and learning about [blockchain development](https://github.com/pjonatansr/blockchain_course)
-
-- 🤝 I’m looking for **a Web3 mentor or job**
+- 🌱 I’m focused on learning **Web3** concepts
 
 - 💬 Ask me about **Web Development**
 

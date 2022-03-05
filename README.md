@@ -7,6 +7,8 @@
 
 - 🌱 I’m focused on learning **Web3** concepts
 
+- 🌱 I'm learning **GraphQL** and **Relay** too
+
 - 💬 Ask me about **Web Development**
 
 - 📫 How to reach me **this.pablo@gmail.com**

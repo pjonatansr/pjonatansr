@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pablo Jonatan!</h1>
 <h3 align="center">A software engineer from Brazil</h3>
 
-[English](README.md)
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pjonatansr&label=Profile%20views&color=0e75b6&style=flat" alt="pjonatansr" /> </p>
 
 - 📄 I'm logging all my progress over 2022 on [personal-roadmap](https://github.com/pjonatansr/personal-roadmap)

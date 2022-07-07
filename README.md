@@ -5,9 +5,7 @@
 
 - 📄 I'm logging all my progress over 2022 on [personal-roadmap](https://github.com/pjonatansr/personal-roadmap)
 
-- 🌱 I’m focused on learning **Web3** concepts
-
-- 🌱 I'm learning **GraphQL** and **Relay** too
+- 🌱 I’m focused on learning **NodeJs** 
 
 - 💬 Ask me about **Web Development**
 

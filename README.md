@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pjonatansr&label=Profile%20views&color=0e75b6&style=flat" alt="pjonatansr" /> </p>
 
-- 📄 I'm logging all my progress over 2022 on [personal-roadmap](https://github.com/pjonatansr/personal-roadmap)
+- 📄 To see about my learning: [personal-roadmap](https://github.com/pjonatansr/personal-roadmap)
 
-- 🌱 I’m focused on learning **NodeJs** 
+- 🌱 I’m focused on **Golang** and **Typescript** 
 
 - 💬 Ask me about **Web Development**
 
